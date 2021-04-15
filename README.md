@@ -8,8 +8,13 @@ _Contributing to Open Source Software_
 - Visual Studio Code
 
 ## Key Learnings:
-- By doing this assignment, we have learned how to create a project on GitHub
-- And also got more knowledge on the git commands.
+By doing this assignment, we have learned following things 
+-	How to create a project on GitHub
+-	How to configure Issue tracker, Project templates
+-	How to add contributors and provide them access 
+-	How to create pull request and add reviewers
+-	How merge pull request from feature branch to dev or main 
+-	How to find who is the highest contributor 
 
 ## Contributors:
 - Kairav Kumar Singh [ 2020MT93243 ]
